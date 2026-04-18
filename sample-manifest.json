@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d45d595e-60ff-4e5f-a2cc-76a7b3d842c3",
+  "id_short": 178964,
+  "published_at": "2026-04-18T07:33:15Z",
+  "repo_name": "all-restaurants-in-indianapolis-carmel-greenwood-metro-indiana-us-sample-178964",
+  "sample_asset_name": "beamstation_178964_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/178964/beamstation_178964_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv",
+  "sample_records": 504,
+  "sample_sha256": "3f0f443aa560fadc255db854095cb89d05f516f29a5b4406efbd8de47f5777c5",
+  "sample_size_bytes": 1813915,
+  "total_records": 5045
+}
