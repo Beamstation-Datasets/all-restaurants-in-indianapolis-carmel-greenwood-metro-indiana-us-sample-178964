@@ -1,6 +1,6 @@
 # All Restaurants in Indianapolis-Carmel-Greenwood (Metro), Indiana, US
 
-> Free BeamStation sample export with 506 rows and masked direct-contact fields.
+> Free BeamStation sample export with 519 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `178964` |
 | Location | Indianapolis-Carmel-Greenwood, IN |
 | Category | Restaurants |
-| Full dataset size | 5,066 records |
-| Free sample size | 506 records (9.99%) |
-| Last export | 2026-04-29T00:28:54.624563+00:00 |
+| Full dataset size | 5,191 records |
+| Free sample size | 519 records (10.0%) |
+| Last export | 2026-05-08T06:43:00.473412+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-indianapolis-carmel-greenwood-metro-indiana-us-sample-178964/releases/download/sample-latest/beamstation_178964_restaurants-us-indianapoliscarmelgreenwoodin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
